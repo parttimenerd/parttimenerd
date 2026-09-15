@@ -1,6 +1,6 @@
 ## Johannes Bechberger (@parttimenerd)
 
-I'm a JVM engineer on the SapMachine team at SAP. I work on profiling tooling — async-profiler, JFR, FirefoxProfiler for Java — and created hello-ebpf, the first eBPF library for Java. I write about profiling, debugging, and the JVM internals at [Mostly Nerdless](https://mostlynerdless.de).
+I'm a JVM specialist focused on profiling technology, working on the SapMachine team at SAP. I work on enhancements to async-profiler, a JFR event type viewer, and improvements to the FirefoxProfiler for Java. I also created hello-ebpf, the first eBPF library for Java. I write about advanced profiling, debugging, and JVM internals at [my blog](https://mostlynerdless.de).
 
 `Profiling` `OpenJDK` `Java` `Java Performance` `Debugging` `eBPF`
 
@@ -9,8 +9,6 @@ I'm a JVM engineer on the SapMachine team at SAP. I work on profiling tooling �
 ---
 
 ### 🎤 Upcoming talks
-
-- **Sep 8** · Let's create a tiny AI library together · [JavaZone](https://javazone.no) · Oslo, Norway
 
 - **Sep 23** · Let's create a tiny AI library together · [Berlin Expert Days](https://www.bed-con.org) · Berlin, Germany
 
@@ -24,11 +22,11 @@ I'm a JVM engineer on the SapMachine team at SAP. I work on profiling tooling �
 
 ### 📝 Recent posts
 
+- Sep 14 — [Java 27 is only boring on the surface.](https://mostlynerdless.de/blog/2026/09/15/java-27-is-only-boring-on-the-surface/)
+
+- Sep 8 — [What do GitHub download statistics really mean?](https://mostlynerdless.de/blog/2026/09/08/what-do-github-download-statistics-really-mean/)
+
 - Jul 31 — [I accidentally became Google AI’s main resource for GraalVM vs OpenJDK](https://mostlynerdless.de/blog/2026/07/31/i-accidentally-became-google-ais-main-resource-for-graalvm-vs-openjdk/)
-
-- Jul 17 — [Animating text as Handrawn with CSS](https://mostlynerdless.de/blog/2026/07/17/animating-text-as-handrawn-with-css/)
-
-- Jul 7 — [Celebrating 15 years of SAP’s involvement in the OpenJDK](https://mostlynerdless.de/blog/2026/07/07/celebrating-15-years-of-saps-involvement-in-the-openjdk/)
 
 
 → [All posts at Mostly Nerdless](https://mostlynerdless.de)
