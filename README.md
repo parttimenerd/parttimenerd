@@ -10,8 +10,6 @@ I'm a JVM specialist focused on profiling technology, working on the SapMachine 
 
 ### 🎤 Upcoming talks
 
-- **Sep 23** · Let's create a tiny AI library together · [Berlin Expert Days](https://www.bed-con.org) · Berlin, Germany
-
 - **Oct 14** · You Are Running the Wrong Tests First · [BaselOne](https://baselone.org/) · Basel, Switzerland · [Program](https://baselone.org/#programm)
 
 - **Oct 21** · You Are Running the Wrong Tests First · [Hello Stavanger](https://www.hellostavanger.no/) · Stavanger, Norway · w/ Jake Hillion
