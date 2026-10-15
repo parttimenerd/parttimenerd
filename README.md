@@ -10,8 +10,6 @@ I'm a JVM specialist focused on profiling technology, working on the SapMachine 
 
 ### 🎤 Upcoming talks
 
-- **Oct 14** · You Are Running the Wrong Tests First · [BaselOne](https://baselone.org/) · Basel, Switzerland · [Program](https://baselone.org/#programm)
-
 - **Oct 21** · You Are Running the Wrong Tests First · [Hello Stavanger](https://www.hellostavanger.no/) · Stavanger, Norway · w/ Jake Hillion
 
 - **Dec 7** · You Are Running the Wrong Tests First · [Frankfurter IT-Tage](https://www.ittage.informatik-aktuell.de) · Frankfurt, Germany
